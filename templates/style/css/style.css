@@ -1,0 +1,29 @@
+body {
+font-family: Arial;
+text-align: center;
+background-color: lightgray;
+}
+header {
+background-color: navy;
+color: white;
+padding: 20px;
+}
+a {
+color: white;
+text-decoration: none;
+margin: 15px;
+}
+h2 {
+color: blue;
+}
+li {
+margin: 10px;
+font-size: 18px;
+}
+footer {
+background-color: black;
+color: white;
+padding: 10px;
+
+margin-top: 30px;
+}
